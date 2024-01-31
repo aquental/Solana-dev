@@ -1,4 +1,5 @@
 # Solana-dev
+
 Solana Dev Bootcamp
 
 ```Shell
@@ -44,4 +45,11 @@ console.log(
 
 ```Shell
 npx esrun check-balance.ts
+```
+
+```Shell
+npx esrun transfer.ts 9TAiq2rgwPhfrksxFUtEtqCEra7qBZ3ZtkSgtzUCnZq9
+
+
+https://explorer.solana.com/tx/3jJPnfbZSWo5UH8Gs2hD1V6QWsRSMsuEDLso4VMRqtNe5WusN24kCP7JNJfWa7otGUq3tDZMPVaaF8ETN1hPA93t?cluster=devnet
 ```

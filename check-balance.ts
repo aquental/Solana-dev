@@ -11,11 +11,13 @@ if (!suppliedPublicKey) {
   console.log(`Using the default public key ${suppliedPublicKey}`);
 }
 
-//const connection = new Connection("https://api.devnet.solana.com", "confirmed");
+const connection = new Connection("https://api.devnet.solana.com", "confirmed");
+/*
 const connection = new Connection(
   "https://api.mainnet-beta.solana.com",
   "confirmed"
 );
+*/
 
 const publicKey = new PublicKey(suppliedPublicKey);
 
