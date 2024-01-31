@@ -57,3 +57,9 @@ https://explorer.solana.com/tx/3jJPnfbZSWo5UH8Gs2hD1V6QWsRSMsuEDLso4VMRqtNe5WusN
 continuar:
 
 https://www.soldev.app/course/intro-to-custom-on-chain-programs
+
+```Shell
+npm install @solana/wallet-adapter-base \
+    @solana/wallet-adapter-react \
+    @solana/wallet-adapter-react-ui
+```
