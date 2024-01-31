@@ -53,3 +53,7 @@ npx esrun transfer.ts 9TAiq2rgwPhfrksxFUtEtqCEra7qBZ3ZtkSgtzUCnZq9
 
 https://explorer.solana.com/tx/3jJPnfbZSWo5UH8Gs2hD1V6QWsRSMsuEDLso4VMRqtNe5WusN24kCP7JNJfWa7otGUq3tDZMPVaaF8ETN1hPA93t?cluster=devnet
 ```
+
+continuar:
+
+https://www.soldev.app/course/intro-to-custom-on-chain-programs
