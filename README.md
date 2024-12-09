@@ -71,3 +71,5 @@ npm install @solana/wallet-adapter-base \
 ### TypeScript
 
 [Advanced TypeScript Types Cheat Sheet](https://www.freecodecamp.org/news/advanced-typescript-types-cheat-sheet-with-examples/)
+
+[Interfaces](https://www.typescriptlang.org/docs/handbook/typescript-tooling-in-5-minutes.html#interfaces)
