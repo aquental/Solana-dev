@@ -67,3 +67,7 @@ npm install @solana/wallet-adapter-base \
 ---
 
 [Bridge to Turbin3](https://www.risein.com/bootcamp-details/bridge-to-turbin3)
+
+### TypeScript
+
+[Advanced TypeScript Types Cheat Sheet](https://www.freecodecamp.org/news/advanced-typescript-types-cheat-sheet-with-examples/)
