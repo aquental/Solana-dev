@@ -63,3 +63,7 @@ npm install @solana/wallet-adapter-base \
     @solana/wallet-adapter-react \
     @solana/wallet-adapter-react-ui
 ```
+
+---
+
+[Bridge to Turbin3](https://www.risein.com/bootcamp-details/bridge-to-turbin3)
